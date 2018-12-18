@@ -1,0 +1,15 @@
+{
+  "name": "03-base-node",
+  "version": "1.0.0",
+  "description": "Esta es una app de linea de comando",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chumby",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^12.0.5"
+  },
+  "devDependencies": {}
+}
